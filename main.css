@@ -1,0 +1,13 @@
+section {
+    display: none;
+}
+
+.chsbtn {
+    width: 30%;
+    padding: .5rem;
+}
+
+/*java*/
+
+.show{display: block;}
+.show2{display: inline;}
